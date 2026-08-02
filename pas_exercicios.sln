@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "circulo", "circulo\circulo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conta_bancaria", "conta_bancaria\conta_bancaria.csproj", "{2C139552-91DC-47DC-A463-4DFBE6FE06D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pessoa", "pessoa\pessoa.csproj", "{AD705EE8-5B99-4427-BB75-C5E5725321B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,9 +22,14 @@ Global
 		{2C139552-91DC-47DC-A463-4DFBE6FE06D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C139552-91DC-47DC-A463-4DFBE6FE06D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C139552-91DC-47DC-A463-4DFBE6FE06D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD705EE8-5B99-4427-BB75-C5E5725321B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD705EE8-5B99-4427-BB75-C5E5725321B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD705EE8-5B99-4427-BB75-C5E5725321B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD705EE8-5B99-4427-BB75-C5E5725321B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5CA3E1AB-37C7-4172-ACD6-209E6AB88BFA} = {B31BADA3-7C1B-4FCC-9A47-4BD6BDCAB926}
 		{2C139552-91DC-47DC-A463-4DFBE6FE06D6} = {B31BADA3-7C1B-4FCC-9A47-4BD6BDCAB926}
+		{AD705EE8-5B99-4427-BB75-C5E5725321B2} = {B31BADA3-7C1B-4FCC-9A47-4BD6BDCAB926}
 	EndGlobalSection
 EndGlobal
