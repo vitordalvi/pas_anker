@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lampada", "lampada\lampada.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conta_bancaria_dificil", "conta_bancaria_dificil\conta_bancaria_dificil.csproj", "{F750B153-2D4F-4047-A2EB-EBE2F19BD166}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio_heranca_polimorfismo", "exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo.csproj", "{D95CE85F-870D-4454-9FA5-ABB163D95103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{F750B153-2D4F-4047-A2EB-EBE2F19BD166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F750B153-2D4F-4047-A2EB-EBE2F19BD166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F750B153-2D4F-4047-A2EB-EBE2F19BD166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95CE85F-870D-4454-9FA5-ABB163D95103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95CE85F-870D-4454-9FA5-ABB163D95103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95CE85F-870D-4454-9FA5-ABB163D95103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95CE85F-870D-4454-9FA5-ABB163D95103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5CA3E1AB-37C7-4172-ACD6-209E6AB88BFA} = {B31BADA3-7C1B-4FCC-9A47-4BD6BDCAB926}
